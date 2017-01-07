@@ -1,2 +1,2 @@
 # CursoJS
-Notes and code from a JS curso
+Notes and code from a JS course
